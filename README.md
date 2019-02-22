@@ -6,3 +6,4 @@ buka folder baru lalu masuk ke dalam folder lalu klik kanan kemudian pilih dokum
 lalu klik kanan dan pilih git bush here.lalu ikuti langkah dibawah ini.
 ![screenshot 2](https://user-images.githubusercontent.com/47878593/53225567-16b85f00-36ab-11e9-9e8c-0888db76791e.png)
 lalu ikuti petunjuk yang tertera pada github sampai muncul gambar login seperti gambar dibawah ini
+![screenshot 3](https://user-images.githubusercontent.com/47878593/53225708-7b73b980-36ab-11e9-87ea-5ae1308dde8a.png)
